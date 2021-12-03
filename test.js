@@ -1,6 +1,6 @@
-$(".login-form").submit(function() {
+$(".fomalex").submit(function() {
 
-	var d = $(".login-form");
+	var d = $(".fomalex");
 
 	$.ajax({
 
